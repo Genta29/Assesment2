@@ -1,0 +1,17 @@
+
+    <resources>
+        <string name="app_name">Assesment2</string>
+        <string name="list_kosong">Belum Ada Data</string>
+        <string name="x_diklik">%1$s diklik!</string>
+        <string name="tambah_catatan">Tambah Barang</string>
+        <string name="nama">Barang</string>
+        <string name="nim">Resi Barang</string>
+        <string name="kelas4">Terkirim</string>
+        <string name="kelas5">Belum Terkirim</string>
+        <string name="kembali">Kembali</string>
+        <string name="simpan">Simpan</string>
+        <string name="edit_mhs">Ubah Barang</string>
+        <string name="lainnya">Opsi lainnya</string>
+        <string name="hapus">Hapus Barang</string>
+        <string name="invalid">Barang dan Resi tidak boleh kosong.</string>
+    </resources>
